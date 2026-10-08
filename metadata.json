@@ -1,0 +1,7 @@
+{
+  "name": "Healthy Weight Planner",
+  "description": "Privacy-focused, offline-first healthy weight management calculator with medical screening, BMI, BMR, TDEE, Devine IBW, and safety guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
